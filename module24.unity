@@ -399,8 +399,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 204007
-  FallbackText: 'My Gold:'
+  translationName: 301025
+  FallbackText: my gold
 --- !u!114 &126171056
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -421,7 +421,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'My Gold:'
+  m_text: my gold
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: ec54bd3cc2ae74d4b810c54190683957, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: 6e0c21d2cadb5e847aff7b3455cb22e2, type: 2}
@@ -1054,7 +1054,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 24.5
+  m_fontSize: 24.55
   m_fontSizeBase: 30
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -1897,7 +1897,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 22.15
+  m_fontSize: 22.2
   m_fontSizeBase: 30
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -3553,7 +3553,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 21.05
+  m_fontSize: 21.2
   m_fontSizeBase: 30
   m_fontWeight: 400
   m_enableAutoSizing: 1
